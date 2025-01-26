@@ -1,0 +1,2 @@
+# Data-Professionals-Salaries
+ This repository contains an analysis of salaries for data professionals, focusing on various factors such as job titles, experience levels, employment types, and geographical locations. Utilizing a dataset sourced from Kaggle, the project employs Power BI for data cleaning, visualization, and exploratory data analysis. Key insights highlight salary trends, helping job seekers make informed decisions about their career paths in the data science field.
